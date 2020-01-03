@@ -1,3 +1,4 @@
+#this is the gui for the calculator app
 from tkinter import *
 from tkinter.font import Font
 
@@ -68,3 +69,4 @@ l1 = Label(f, text="------------------Proudly powered by Anirban Mukherjee------
 l1.grid(row=9, columnspan=5)
 
 root.mainloop()
+#this is the gui for the calculator app
